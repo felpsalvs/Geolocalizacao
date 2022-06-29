@@ -3,7 +3,6 @@
 
 ### 🔖 Sobre
 Com o JavaScript é possível fazer uma bussola, que através da nossa localização manipula o objeto navigator.geolocation.watchPosition.
-
 <br/>
 <br/>
 21/30 <br/>
@@ -14,7 +13,6 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 + Html 5
 + JavaScript
-
  <br/>
  
 ### Autor
